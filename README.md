@@ -1,6 +1,8 @@
-# 👋 Hi, I’m Sardor
+# 👋 Hi, I’m Sardor 
 > 📫 Contacts: sardorstudent0618@gmail.com
 
+  <a href="https://www.youtube.com/channel/@sardorsohinazarov"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 
 <p align="end">
 <a href="https://t.me/ssardoruz"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a> 
