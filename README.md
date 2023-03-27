@@ -2,7 +2,7 @@
 > 📫 Contacts: sardorstudent0618@gmail.com
 
 <p align="end">
-  <a href="https://www.youtube.com/channel/@sardorsohinazarov"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-gray?style=flat-square&logo=youtube"></a>
+  <a href="https://www.youtube.com/@sardorsohinazarov"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-gray?style=flat-square&logo=youtube"></a>
   <a href="https://t.me/ssardoruz"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a> 
   <a href="https://www.linkedin.com/in/sardorsohinazarov/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
   <a href="https://instagram.com/sardorsohinazarov"><img alt="Instagram" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
