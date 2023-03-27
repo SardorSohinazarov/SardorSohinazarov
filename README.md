@@ -1,6 +1,4 @@
-<a href="https://t.me/ssardoruz"><i>Write Me</i></a>
-
-# 👋 Hi, I’m Sardor Sohinazarov
+# 👋 Hi, I’m Sardor
 > 📫 Contacts: sardorstudent0618@gmail.com
 
 
