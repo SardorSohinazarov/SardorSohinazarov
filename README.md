@@ -1,4 +1,4 @@
-<a href="https://t.me/ssardoruz"><img src="https://img.freepik.com/premium-vector/cute-boy-cartoon-character-with-gesture-icon-point-up_81698-1577.jpg" align="right" height="200"/></a>
+<a href="https://t.me/ssardoruz"><i>Write Me</i></a>
 
 # 👋 Hi, I’m Sardor Sohinazarov
 > 📫 Contacts: sardorstudent0618@gmail.com
