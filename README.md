@@ -11,7 +11,7 @@
 </p>
 
 
- ![Github stats](https://github-readme-stats.vercel.app/api?username=ElbekDeveloper&show_icons=true&theme=dark)
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=SardorSohinazarov&show_icons=true&theme=dark)
 
 [![Sardor's Streak](https://github-readme-streak-stats.herokuapp.com?user=SardorSohinazarov&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
 
