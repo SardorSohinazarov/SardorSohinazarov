@@ -10,7 +10,6 @@
   <a href="https://www.linkedin.com/in/sardorsohinazarov/" title="LinkedIn Profile"><img width="80" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href="https://www.instagram.com/sardorsohinazarov/" title="Insta Profile"><img width="90" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
  <a href="https://t.me/ssardoruz/" title="TG Profile"><img width="80" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
- <a href="https://www.facebook.com/mabrur.h11" title="FB Profile"><img width="80" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 </h5>
 <br>
 <p align="center">
