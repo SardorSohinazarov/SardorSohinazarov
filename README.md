@@ -20,7 +20,7 @@
   <br>
   🔬 I'm currently studying at Tashkent University of IT
   <br>
-  ✍️ My blog, where I share personal experiences <a href="[https://t.me/professional_mistakemaker](https://t.me/sardorsohinazarov)">t.me/ssardoruz</a>
+  ✍️ My blog, where I share personal experiences <a href="https://t.me/sardorsohinazarov">sardorsohinazarov</a>
   <br>
   💬 Ask me anything about from <a href="https://github.com/SardorSohinazarov/SardorSohinazarov/issues" title="Issues">Here</a>
   <br>
