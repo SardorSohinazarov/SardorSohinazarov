@@ -40,7 +40,7 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=SardorSohinazarov&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
+  <br><br><br>
   <br>
 </p>
 
