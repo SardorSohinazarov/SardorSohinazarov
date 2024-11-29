@@ -17,9 +17,6 @@
 
 <p align="center">
   Hi, I'm Sardor, .NET Software Engineer from Uzbekistan
-  
-  [![committers.top badge](https://user-badge.committers.top/uzbekistan/SardorSohinazarov.svg)](https://user-badge.committers.top/uzbekistan/SardorSohinazarov)
-  
   <br>
   <br>
   🔬 I'm currently studying at Tashkent University of IT
@@ -51,3 +48,8 @@
 <h4 align="center">
   <a href="https://github.com/SardorSohinazarov?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
 </h4>
+
+<!--
+Top commiterslardan biri ekanman 
+
+[![committers.top badge](https://user-badge.committers.top/uzbekistan/SardorSohinazarov.svg)](https://user-badge.committers.top/uzbekistan/SardorSohinazarov) -->
