@@ -23,7 +23,7 @@
   <br>
   ✍️ My personal website, where I share interesting post about me <a href="https://sardorsohinazarov.uz">https://sardorsohinazarov.uz</a>
   <br>
-  ✍️ My blog, where I share personal experiences <a href="https://t.me/professional_mistakemaker">sardorsohinazarov</a>
+  ✍️ My blog, where I share personal experiences <a href="https://t.me/sardorsohinazarov">sardorsohinazarov</a>
   <br>
   💬 Ask me anything about from <a href="https://github.com/SardorSohinazarov/SardorSohinazarov/issues" title="Issues">Here</a>
   <br>
